@@ -1,0 +1,138 @@
+[
+    {
+        "service": "azure",
+        "name": "JSON Generation",
+        "averageResponseTime": 4056.218115234375,
+        "averageAccountingForLatency": 4032.218115234375,
+        "fullResults": [
+            {
+                "milliseconds": 4009.78759765625,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3835.0126953125,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3858.392578125,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3849.654296875,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3878.084228515625,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 4141.8818359375,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3854.387451171875,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 5356.453369140625,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3875.487548828125,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 3903.03955078125,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            }
+        ]
+    },
+    {
+        "service": "openai",
+        "name": "JSON Generation",
+        "averageResponseTime": 11324.543896484374,
+        "averageAccountingForLatency": 11311.543896484374,
+        "fullResults": [
+            {
+                "milliseconds": 12484.59765625,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 10853.289794921875,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 10418.73681640625,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 10969.6123046875,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 11158.06591796875,
+                "prompt_tokens": 74,
+                "completion_tokens": 146,
+                "total_tokens": 220
+            },
+            {
+                "milliseconds": 11589.738525390625,
+                "prompt_tokens": 74,
+                "completion_tokens": 146,
+                "total_tokens": 220
+            },
+            {
+                "milliseconds": 10950.60009765625,
+                "prompt_tokens": 74,
+                "completion_tokens": 146,
+                "total_tokens": 220
+            },
+            {
+                "milliseconds": 12459.1328125,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 11612.644775390625,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            },
+            {
+                "milliseconds": 10749.020263671875,
+                "prompt_tokens": 74,
+                "completion_tokens": 144,
+                "total_tokens": 218
+            }
+        ]
+    }
+]

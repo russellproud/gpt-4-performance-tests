@@ -1,0 +1,9 @@
+{
+    "name": "No system prompt, single message",
+    "messages": [
+        {
+            "role": "user",
+            "content": "What is the capital of Australia?"
+        }
+    ]
+}

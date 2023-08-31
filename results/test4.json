@@ -1,0 +1,138 @@
+[
+    {
+        "service": "azure",
+        "name": "Custom system prompt, 10 message thread, technical",
+        "averageResponseTime": 10103.631127929688,
+        "averageAccountingForLatency": 10079.631127929688,
+        "fullResults": [
+            {
+                "milliseconds": 10068.610595703125,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 9886.95947265625,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 9907.902099609375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 9887.683349609375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 9871.91650390625,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 10058.06298828125,
+                "prompt_tokens": 1802,
+                "completion_tokens": 369,
+                "total_tokens": 2171
+            },
+            {
+                "milliseconds": 9877.6787109375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 10860.292236328125,
+                "prompt_tokens": 1802,
+                "completion_tokens": 388,
+                "total_tokens": 2190
+            },
+            {
+                "milliseconds": 8852.500732421875,
+                "prompt_tokens": 1802,
+                "completion_tokens": 321,
+                "total_tokens": 2123
+            },
+            {
+                "milliseconds": 11764.70458984375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 369,
+                "total_tokens": 2171
+            }
+        ]
+    },
+    {
+        "service": "openai",
+        "name": "Custom system prompt, 10 message thread",
+        "averageResponseTime": 28398.97756347656,
+        "averageAccountingForLatency": 28385.97756347656,
+        "fullResults": [
+            {
+                "milliseconds": 30120.304931640625,
+                "prompt_tokens": 1802,
+                "completion_tokens": 381,
+                "total_tokens": 2183
+            },
+            {
+                "milliseconds": 25440.116943359375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 347,
+                "total_tokens": 2149
+            },
+            {
+                "milliseconds": 30250.462158203125,
+                "prompt_tokens": 1802,
+                "completion_tokens": 380,
+                "total_tokens": 2182
+            },
+            {
+                "milliseconds": 23551.552490234375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 364,
+                "total_tokens": 2166
+            },
+            {
+                "milliseconds": 28521.980712890625,
+                "prompt_tokens": 1802,
+                "completion_tokens": 391,
+                "total_tokens": 2193
+            },
+            {
+                "milliseconds": 24559.779541015625,
+                "prompt_tokens": 1802,
+                "completion_tokens": 347,
+                "total_tokens": 2149
+            },
+            {
+                "milliseconds": 34361.322021484375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 380,
+                "total_tokens": 2182
+            },
+            {
+                "milliseconds": 25538.81689453125,
+                "prompt_tokens": 1802,
+                "completion_tokens": 345,
+                "total_tokens": 2147
+            },
+            {
+                "milliseconds": 30083.045654296875,
+                "prompt_tokens": 1802,
+                "completion_tokens": 390,
+                "total_tokens": 2192
+            },
+            {
+                "milliseconds": 31562.394287109375,
+                "prompt_tokens": 1802,
+                "completion_tokens": 385,
+                "total_tokens": 2187
+            }
+        ]
+    }
+]

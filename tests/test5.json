@@ -1,0 +1,10 @@
+
+{
+    "name": "JSON Generation",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Convert the following items into a list of json dicts. Extract the name, city, country and postcode for each.\n Steve Jones, Australia, 3587\nMichael Smith, USA, 87458\nJohn Doe, Buenos Airies, Argentina, XY78785\nFrankling Rosevelt, Bali, Indonesia, 789756A"
+        }
+    ]
+}
